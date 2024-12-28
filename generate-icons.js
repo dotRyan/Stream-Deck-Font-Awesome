@@ -46,7 +46,7 @@ const argv = yargs()
     alias: 'i',
     demandOption: true,
     type: 'string',
-    default: 'FFFFFF',
+    default: '3C1759',
     describe: 'icon color (hex)',
   })
   .option('icon-size', {
